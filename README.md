@@ -35,3 +35,9 @@ Project for practicing and improve HTML and CSS skills.
 - header
 - main
 - footer
+
+
+https://github.com/Nazar-Pichak/Evento/assets/103797791/569650c4-1383-43a6-ae7a-3f605b873378
+
+
+

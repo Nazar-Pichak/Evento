@@ -29,3 +29,9 @@ Project for practicing and improve HTML and CSS skills.
 - Block and Inline
 - Inheritance
 - @keyframes
+
+# Semantic tags
+
+- header
+- main
+- footer

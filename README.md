@@ -1,6 +1,6 @@
 # Evento
 
-Project for practicing and improve HTML and CSS skills.
+Project for practicing and improving HTML and CSS skills.
 
 # HTML Concepts
 

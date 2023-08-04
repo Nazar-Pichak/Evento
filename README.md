@@ -5,7 +5,7 @@ Project for practicing and improve HTML and CSS skills.
 # HTML Concepts
 
 - Overall structure and tags
-- <p>
+- p
 - h1, h2, etc.
 - button
 - a
@@ -29,5 +29,3 @@ Project for practicing and improve HTML and CSS skills.
 - Block and Inline
 - Inheritance
 - @keyframes
-
-
